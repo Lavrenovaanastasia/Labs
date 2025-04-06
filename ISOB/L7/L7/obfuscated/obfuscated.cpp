@@ -1,0 +1,1 @@
+#define a1 //комментарий   #define a2 "Result: "   ﻿#include   <iostream>      int   GKrokHeL(int   ENngbNTlkCC,   int   eLFyTyJHwfc)   {      return   ENngbNTlkCC   *   eLFyTyJHwfc   +   123;   }   a1   int   main()   {      int   MFunkHhMAl   =   15;      int   sQagYsnkbaH   =   30;      std::cout   <<   a2   <<   GKrokHeL(MFunkHhMAl,   sQagYsnkbaH)   <<   std::endl;   }   
